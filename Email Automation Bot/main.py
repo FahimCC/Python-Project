@@ -23,7 +23,7 @@ def send_email(receiver, subject, message):
     email.set_content(message)
     server.send_message(email)
     
-    # server.sendmail('ffsmile143@gmail.com', 'ffnasif@gmail.com', 'Assalamu Alaikum. I am Nuren. I wanted to marriage you very quickly. In Sha Allah.')
+    # server.sendmail('ffsmile143@gmail.com', 'ffnasif@gmail.com', 'Assalamu Alaikum. I will marry very quickly In Sha Allah.')
 
 
 def get_command():
